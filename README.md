@@ -35,7 +35,7 @@ Register No: 212222230169
 ```
 ### Get the input String
 ```python
-string = 'Anbuselvan S 212223240008'
+string = 'sreeja 212222230168'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
